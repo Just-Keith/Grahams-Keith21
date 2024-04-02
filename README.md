@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Grahams-Keith21
-- 👀 I’m interested in anything tech 
-- 🌱 I’m currently learning android and IoT 
-- 💞️ I’m looking to collaborate on any open source projects 
-- 📫 How to reach me @GrahamsKeith twitter  
+Hi, I'm Keith Grahams.
+I'm currently a Backend Engineer, Devops Engineer and an infosec enthusiast.
+Ask me about Blockchain,NFT,Web3,Rust,C#,.NET and Infosec.
 
 <!---
 Grahams-Keith21/Grahams-Keith21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
